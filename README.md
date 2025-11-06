@@ -195,9 +195,3 @@ python insta_draw.py --image sketch.jpg --speed 0.001 --simplify 5.0 --calibrate
 **⚠️ Disclaimer**: This tool controls your mouse automatically. Always test with simple images first and ensure you understand its behavior. The authors are not responsible for any unintended actions performed by the script.
 
 **Made with ❤️ by Arek**
-
----
-
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/instadraw&type=Date)](https://star-history.com/#yourusername/instadraw&Date)
