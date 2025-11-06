@@ -17,19 +17,6 @@ InstaDraw is a Python automation tool that converts images into vector paths and
 - ⚡ **Adjustable Speed** - Control drawing speed and detail level
 - 🛡️ **Failsafe Protection** - Emergency stop by moving mouse to screen corners
 
-## 📋 Table of Contents
-
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [How It Works](#how-it-works)
-- [Examples](#examples)
-- [Tips & Best Practices](#tips--best-practices)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🚀 Installation
 
 ### Prerequisites
